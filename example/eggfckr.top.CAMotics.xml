@@ -1,0 +1,19 @@
+<camotics>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    dev/gcode/grbl/example/eggfckr.top.etch.nc
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='0.509886'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='true'/>
+  <workpiece-max v='(95.0785,26.6347,12.7)'/>
+  <workpiece-min v='(-2.3634,1.12999,-0.635)'/>
+
+  <tool_table>
+    <tool length='10' number='1' radius='1' shape='CONICAL' units='MM'/>
+  </tool_table>
+</camotics>

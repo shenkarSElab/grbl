@@ -8,14 +8,16 @@
 (Settings from pcb-machine.h)
 (Settings from pcb-defaults.h)
 (Generated top outlines, )
-(Unit of measure: mm)
-(mm Mode)
-G21
+(Unit of measure: inch)
+(inch Mode)
+G20
 (Absolute Coordinates)
 G90
+(feed is important)
+F 10
 (servo up)
 M3 S115
-(G00 - )rapid move)
+(G00 - rapid move)
 G00 Z0.5000
 G00 X0.0000 Y0.0000
 (delay 3sec)
