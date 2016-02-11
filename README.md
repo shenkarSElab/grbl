@@ -27,7 +27,7 @@ If you want to have the servo working from 0 --> 180 degrees change RC_SERVO_SHO
  - [PCB-TO-Gcode](http://pcbgcode.org/) for eagle  
     -- see [this](http://pcbgcode.org/read.php?15,392) for how to have only one pass (good for us with a pen)  [image](http://i.imgur.com/gkHqKvP.png), [image2](http://i.imgur.com/e12rZnG.png)  
  - [makercam](http://www.makercam.com/) - online svg to gcode  [image](http://i.imgur.com/JcXGzAh.png)
- - [gsat](https://github.com/duembeg/gsat) - python, has inch2mm conversion, untested
+ - [gsat](http://www.eng-serve.com/cnc/gcode_scale.html) - online inch2mm conversion
 _**Master Branch:**_
 * [Grbl v0.9j Atmega328p 16mhz 115200baud with generic defaults](http://bit.ly/1I8Ey4S) _(2015-12-18)_
   - **IMPORTANT INFO WHEN UPGRADING TO GRBL v0.9 :** 
